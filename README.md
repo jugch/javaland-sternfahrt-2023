@@ -16,6 +16,12 @@ Du kannst so mitmachen, wie es für dich passt. Wenn du einfach nur mit deinem F
 
 Deine Fahrtstrecke musst du nicht aufzeichnen, wenn du nicht möchtest. Aber es wäre sehr toll, wenn du das machst! Du brauchst dazu auch kein Navi oder GPS-Gerät, eine einfache App auf dem Smartphone oder der Smartwatch reicht schon aus. Wenn du im JavaLand angekommen bist, schicke die GPX-Datei(en) bitte per E-Mail an marcus.fihlon@jug.ch (Verschlüsselung per GnuPG möglich).
 
+## Der Film
+
+Marcus erstellt dann aus allen eingereichten GPX-Dateien eine synchronisierte Animation aller Fahrten. Wenn alles klappt und keine `NullPointerException`s auftreten, kommt am Ende ein fertiger kleiner Film aus dem GPX Animator heraus. Diesen zeigen wir an der JavaLand während der Keynote!
+
+Da die Teilnehmer:innen aus allen Teilen Deutschlands und dem angrenzenden Ausland stammen, wird das Detaillevel der Landkarte sehr gering sein. Einzelne Strassen oder Dörfer werden nicht zu sehen sein und nur grosse Städe sind eingezeichnet. Ein Beispiel des Detailgrades der Karte findest du [hier](map_example.png). Es sind also weder der exakte Startort noch die genaue Routenführung zu sehen. Der Film ist also sozusagen "anonymisiert". Daher werden wir die fertige Animation auch auf YouTube veröffentlichen.
+
 ## Teilnehmerliste
 
 Bitte trage dich in dieser Tabelle in *alphabetischer Reihenfolge* ein, Vorname zuerst. So finden wir dich leichter wieder! Verlinke bitte deinen Namen. Zum Beispiel mit deinem Social Media Profil, deiner Webseite, oder deiner E-Mail-Adresse. Falls jemand mit dir Kontakt aufnehmen möchte.
