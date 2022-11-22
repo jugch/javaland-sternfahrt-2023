@@ -35,3 +35,17 @@ In die Spalte *Start* kommt das Datum, an du Zuhause los fährst. Da einige bere
 | Name | Route | Start | Ankunft |
 | ---- | ----- | ----- | ------- |
 | [Marcus Fihlon](https://mastodon.social/@McPringle) | [Luzern, Zürich, Basel, Strasbourg, Speyer, Worms, Mainz, Koblenz, Bonn](https://www.komoot.com/tour/962421306/zoom) | 16.03.2023 | Montag |
+
+## FAQ
+
+### Ich möchte nicht, dass man sieht, wo ich wohne/arbeite
+
+Kein Problem. Wenn du deine GPX-Datei(en) einreichst, vermerke in der E-Mail wieviel vom Anfang abgeschnitten werden soll. Nicht in Strecke (Kilometer), sondern in Dauer (Stunden/Minuten). Zum Beispiel: *Bitte die ersten 30 Minuten anonymisieren.*
+
+### Ich möchte das Video haben/teilen/weiterleiten
+
+Das fertige Video wird auf YouTube veröffentlicht. Das Video wird an der JavaLand gezeigt, in Social Media geteilt, und auch hier auf dieser Seite verlinkt. Du darfst den Link gerne weiter verbreiten und dir das Video auch herunterladen.
+
+### Wie kann ich meine Fahrtstrecke mit meinem Smartphone aufzeichnen?
+
+Dafür gibt es viele verschiedene Möglichkeiten. Sehr einfach zu bedienen ist die Routenplanungs- und Navigationssoftware von [Komoot](https://www.komoot.de/). Damit kannst du deine Route vorher planen. Komoot navigiert dich dann zur JavaLand. Du kannst die App aber auch ohne Planung einfach nur zur Aufzeichnung verwenden. Die GPX-Datei kann man nach Beendigung der Fahrt herunterladen. Das Basis-Konto ist kostenlos und weil Komoot seinen Sitz in Berlin hat, ist das gesamte Angebot auch DSGVO-konform.
