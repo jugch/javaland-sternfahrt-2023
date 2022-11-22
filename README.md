@@ -26,7 +26,7 @@ Wenn du dennoch möchtest, dass der erste Teil deiner Strecke nicht im Film verw
 
 ## Teilnehmerliste
 
-Bitte trage dich in dieser Tabelle in *alphabetischer Reihenfolge* ein, Vorname zuerst. So finden wir dich leichter wieder! Verlinke bitte deinen Namen. Zum Beispiel mit deinem Social Media Profil, deiner Webseite, oder deiner E-Mail-Adresse. Falls jemand mit dir Kontakt aufnehmen möchte.
+Bitte trage dich in [dieser Tabelle](Teilnehmer.md) in *alphabetischer Reihenfolge* ein, Vorname zuerst. So finden wir dich leichter wieder! Verlinke bitte deinen Namen. Zum Beispiel mit deinem Social Media Profil, deiner Webseite, oder deiner E-Mail-Adresse. Falls jemand mit dir Kontakt aufnehmen möchte.
 
 Damit andere Teilnehmer:innen sich vielleicht mit dir verabreden können, um einen Teil der Strecke gemeinsam zu fahren, trage bitte auch deine Route ein. Beginne dabei mit deinem Startort. Wenn du deine Route am Computer geplant hast (zum Beispiel mit [Komoot](https://www.komoot.de/), [Strava](https://www.strava.com/), [Mapy](https://de.mapy.cz/), oder anderen Diensten), so kannst du sie auch gerne verlinken.
 
@@ -34,9 +34,7 @@ In die Spalte *Start* kommt das Datum, an du Zuhause los fährst. Da einige bere
 
 Alternativ kannst auch einen [GitHub Issue](https://github.com/McPringle/javaland-sternfahrt-2023/issues/new/choose) mit allen deinen Angaben erstellen und wir werden dich in die Tabelle eintragen. Wenn du keinen GitHub Account hast, kannst du deine Daten auch per Mail an marcus.fihlon@jug.ch senden. Die Mail kann, muss aber nicht mit GnuPGP verschlüsselt sein. Marcus trägt dich dann in die Tabelle ein.
 
-| Name | Route | Start | Ankunft |
-| ---- | ----- | ----- | ------- |
-| [Marcus Fihlon](https://mastodon.social/@McPringle) | [Luzern, Zürich, Basel, Strasbourg, Speyer, Worms, Mainz, Koblenz, Bonn](https://www.komoot.com/tour/962421306/zoom) | 16.03.2023 | Montag |
+[Hier geht es zur Teilnehmerliste!](Teilnehmer.md)
 
 ## FAQ
 
