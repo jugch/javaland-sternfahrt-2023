@@ -2,6 +2,14 @@
 
 *Eine Community-Aktivität der [Java User Group Switzerland](https://www.jug.ch/) organisiert von [Marcus Fihlon](https://mastodon.social/@McPringle).*
 
+## Die Idee
+
+Es gibt jedes Jahr immer wieder einige Teilnehmer:innen, die mit dem Fahrrad anreisen. Sowohl aus der Nähe, als auch von weiter weg. Das ist nicht nur gesund und klimafreundlich, sondern macht vor allem Spass! Das möchten wir fördern.
+
+Zudem ist Marcus der Hauptentwickler von [GPX Animator](https://gpx-animator.app/). Das ist eine in Java entwickelte Anwendung, um aus GPX Dateien (das sind aufgezeichnete Routen) ein Video zu erstellen, dass die Fahrt auf einer Landkarte animiert.
+
+Was liegt also näher, als das Ganze zusammen zu bringen und eine Sternfahrt zu organisieren? Wenn nun noch möglichst viele nicht nur mit dem Fahrrad anreisen, sondern die Fahrt auch noch "tracken" (mit einem Navi, GPS-Gerät, oder einer Smartphone App), dann können wir daraus an der JavaLand mit dem Java-Programm eine tolle Animation erstellen und vielleicht sogar auf der Keynote zeigen!
+
 ## Teilnehmerliste
 
 Bitte trage dich in dieser Tabelle in *alphabetischer Reihenfolge* ein, Vorname zuerst. So finden wir dich leichter wieder! Verlinke bitte deinen Namen. Zum Beispiel mit deinem Social Media Profil, deiner Webseite, oder deiner E-Mail-Adresse. Falls jemand mit dir Kontakt aufnehmen möchte.
