@@ -22,6 +22,8 @@ Marcus erstellt dann aus allen eingereichten GPX-Dateien eine synchronisierte An
 
 Da die Teilnehmer:innen aus allen Teilen Deutschlands und dem angrenzenden Ausland stammen, wird das Detaillevel der Landkarte sehr gering sein. Einzelne Strassen oder Dörfer werden nicht zu sehen sein und nur grosse Städe sind eingezeichnet. Ein Beispiel des Detailgrades der Karte findest du [hier](map_example.png). Es sind also weder der exakte Startort noch die genaue Routenführung zu sehen. Der Film ist also sozusagen "anonymisiert". Daher werden wir die fertige Animation auch auf YouTube veröffentlichen.
 
+Wenn du dennoch möchtest, dass der erste Teil deiner Strecke nicht im Film verwendet wird, vermerke das bitte in deiner E-Mail wenn du die GPX-Datei(en) einreichst. Der GPX Animator kann auf Wunsch die ersten Minuten oder Stunden automatisch von deinem GPX-Track abschneiden.
+
 ## Teilnehmerliste
 
 Bitte trage dich in dieser Tabelle in *alphabetischer Reihenfolge* ein, Vorname zuerst. So finden wir dich leichter wieder! Verlinke bitte deinen Namen. Zum Beispiel mit deinem Social Media Profil, deiner Webseite, oder deiner E-Mail-Adresse. Falls jemand mit dir Kontakt aufnehmen möchte.
