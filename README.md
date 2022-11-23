@@ -12,7 +12,7 @@ Was liegt also näher, als das Ganze zusammen zu bringen und eine Sternfahrt zu 
 
 ## Mitmachen
 
-Du kannst so mitmachen, wie es für dich passt. Wenn du einfach nur mit deinem Fahrrad kommen möchtest, dann kannst du das natürlich machen. Ohne dich irgendwo einzutragen. Aber vielleicht verpasst du ein paar tolle Momente! Wenn du dich in unsere [Teilnehmerliste](Teilnehmer.md) einträgst, dann können andere deine Route sehen. Du kannst dich mit ihnen verabreden und so die ganze Strecke oder Teile davon gemeinsam fahren.
+Du kannst so mitmachen, wie es für dich passt. Wenn du einfach nur mit deinem Fahrrad kommen möchtest, dann kannst du das natürlich machen. Ohne dich irgendwo einzutragen. Aber vielleicht verpasst du ein paar tolle Momente! Wenn du dich in unsere [Teilnehmerliste](#teilnerhmerliste) einträgst, dann können andere deine Route sehen. Du kannst dich mit ihnen verabreden und so die ganze Strecke oder Teile davon gemeinsam fahren.
 
 Deine Fahrtstrecke musst du nicht aufzeichnen, wenn du nicht möchtest. Aber es wäre sehr toll, wenn du das machst! Du brauchst dazu auch kein Navi oder GPS-Gerät, eine einfache App auf dem Smartphone oder der Smartwatch reicht schon aus. Wenn du im JavaLand angekommen bist, schicke die GPX-Datei(en) bitte per E-Mail an marcus.fihlon@jug.ch (Verschlüsselung per GnuPG möglich).
 
