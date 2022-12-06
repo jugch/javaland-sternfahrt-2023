@@ -16,6 +16,13 @@ Du kannst so mitmachen, wie es für dich passt. Wenn du einfach nur mit deinem F
 
 Deine Fahrtstrecke musst du nicht aufzeichnen, wenn du nicht möchtest. Aber es wäre sehr toll, wenn du das machst! Du brauchst dazu auch kein Navi oder GPS-Gerät, eine einfache App auf dem Smartphone oder der Smartwatch reicht schon aus. Wenn du im JavaLand angekommen bist, schicke die GPX-Datei(en) bitte per E-Mail an marcus.fihlon@jug.ch (Verschlüsselung per GnuPG möglich).
 
+## Austausch
+
+Für den Austausch aller Teilnehmer untereinander haben wir einen Chatraum eingerichtet. Er ist sowohl über _Matrix_ als auch über _Slack_ erreichbar. Alle Nachrichten werden in beiden Richtungen synchronisiert. Auf Matrix befindet sich der Chatraum auf dem Server [ijug.eu](https://chat.ijug.eu/) und auf Slack befindet er sich im Workspace von [jvm-german](https://jvm-german.slack.com/). Auf beiden Plattformen heisst der Kanal `javaland-sternfahrt`. Hier findest du die entsprechenden Links:
+
+- [Direkter Link in den Matrix-Raum](https://matrix.to/#/#javaland-sternfahrt:ijug.eu)
+- [Einladung in den Slack-Workspace](http://bit.ly/jvmg-invite)
+
 ## Der Film
 
 Marcus erstellt dann aus allen eingereichten GPX-Dateien eine synchronisierte Animation aller Fahrten. Wenn alles klappt und keine `NullPointerException`s auftreten, kommt am Ende ein fertiger kleiner Film aus dem GPX Animator heraus. Diesen zeigen wir an der JavaLand während der Keynote!
