@@ -43,6 +43,10 @@ Alternativ kannst auch einen [GitHub Issue](https://github.com/McPringle/javalan
 
 [Hier geht es zur Teilnehmerliste!](Teilnehmer.md)
 
+## Haftung
+
+Die [Java User Group Switzerland](https://www.jug.ch/), die [JavaLand GmbH](https://www.javaland.eu/) und der [iJUG e.V.](https://www.ijug.eu/) übernehmen keine Haftung. Die Fahrt gilt als reines Privatvergnügen. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
+
 ## FAQ
 
 ### Ich möchte nicht, dass man sieht, wo ich wohne/arbeite
