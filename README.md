@@ -60,3 +60,9 @@ Das fertige Video wird auf YouTube veröffentlicht. Das Video wird an der JavaLa
 ### Wie kann ich meine Fahrtstrecke mit meinem Smartphone aufzeichnen?
 
 Dafür gibt es viele verschiedene Möglichkeiten. Sehr einfach zu bedienen ist die Routenplanungs- und Navigationssoftware von [Komoot](https://www.komoot.de/). Damit kannst du deine Route vorher planen. Komoot navigiert dich dann zur JavaLand. Du kannst die App aber auch ohne Planung einfach nur zur Aufzeichnung verwenden. Die GPX-Datei kann man nach Beendigung der Fahrt herunterladen. Das Basis-Konto ist kostenlos und weil Komoot seinen Sitz in Berlin hat, ist das gesamte Angebot auch DSGVO-konform.
+
+## Danksagung
+
+## Logo
+
+Ein ganz grosses Dankeschön geht an Alexander Kermas von der DOAG für die tolle Grafik zur Illustration der Sternfahrt und dass wir diese verwenden dürfen.
