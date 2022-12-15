@@ -39,7 +39,7 @@ Damit andere Teilnehmer:innen sich vielleicht mit dir verabreden können, um ein
 
 In die Spalte *Start* kommt das Datum, an du Zuhause los fährst. Da einige bereits am Sonntag anreisen, andere am Montag, trage in die letzte Spalte bitte deinen geplanten Ankunftstag ein.
 
-Alternativ kannst auch einen [GitHub Issue](https://github.com/McPringle/javaland-sternfahrt-2023/issues/new/choose) mit allen deinen Angaben erstellen und wir werden dich in die Tabelle eintragen. Wenn du keinen GitHub Account hast, kannst du deine Daten auch per Mail an marcus.fihlon@jug.ch senden. Die Mail kann, muss aber nicht mit GnuPGP verschlüsselt sein. Marcus trägt dich dann in die Tabelle ein.
+Alternativ kannst auch einen [GitHub Issue](https://github.com/McPringle/javaland-sternfahrt-2023/issues/new/choose) mit allen deinen Angaben erstellen und wir werden dich in die Tabelle eintragen. Wenn du keinen GitHub Account hast, kannst du deine Daten auch per Mail an marcus.fihlon@jug.ch senden. Die Mail kann, muss aber nicht mit [GnuPG](https://keys.openpgp.org/search?q=marcus.fihlon%40jug.ch) verschlüsselt sein. Marcus trägt dich dann in die Tabelle ein.
 
 [Hier geht es zur Teilnehmerliste!](Teilnehmer.md)
 
