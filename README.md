@@ -49,6 +49,10 @@ Die [Java User Group Switzerland](https://www.jug.ch/), die [JavaLand GmbH](http
 
 ## FAQ
 
+### Kann ich nicht einfach nur mitfahren, ohne etwas aufzuzeichnen?
+
+Natürlich! Es ist überhaupt kein Zwang, etwas aufzuzeichnen. Du kannst auch einfach so mit fahren und andere Teilnehmer kennen lernen.
+
 ### Ich möchte nicht, dass man sieht, wo ich wohne/arbeite
 
 Kein Problem. Wenn du deine GPX-Datei(en) einreichst, vermerke in der E-Mail wieviel vom Anfang abgeschnitten werden soll. Nicht in Strecke (Kilometer), sondern in Dauer (Stunden/Minuten). Zum Beispiel: *Bitte die ersten 30 Minuten anonymisieren.*
