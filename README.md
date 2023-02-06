@@ -65,6 +65,10 @@ Das fertige Video wird auf YouTube veröffentlicht. Das Video wird an der JavaLa
 
 Dafür gibt es viele verschiedene Möglichkeiten. Sehr einfach zu bedienen ist die Routenplanungs- und Navigationssoftware von [Komoot](https://www.komoot.de/). Damit kannst du deine Route vorher planen. Komoot navigiert dich dann zur JavaLand. Du kannst die App aber auch ohne Planung einfach nur zur Aufzeichnung verwenden. Die GPX-Datei kann man nach Beendigung der Fahrt herunterladen. Das Basis-Konto ist kostenlos und weil Komoot seinen Sitz in Berlin hat, ist das gesamte Angebot auch DSGVO-konform.
 
+### Gibt eine sichere Unterbringungsmöglichkeit für mein Fahrrad?
+
+Während deiner Anreise bist du natürlich selbst für dein Fahrrad verantwortlich. Während der JavaLand (von Sonntag bis Donnerstag) wird allen Teilnehmerinnen und Teilnehmern bei der JavaLand eine sichere Unterbringung des Fahrrades angeboten werden. Genauere Informationen dazu folgen noch.
+
 ## Danksagung
 
 ## Logo
